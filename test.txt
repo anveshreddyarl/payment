@@ -1,7 +1,4 @@
 Testing it
-<<<<<<< HEAD
 testing today at 7pm
-=======
 fdndlf
 
->>>>>>> develop1
